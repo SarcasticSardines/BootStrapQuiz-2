@@ -1,0 +1,32 @@
+.DivColor{
+    background-color: blueviolet;
+}
+
+.titleHeader{
+    height: 200px;
+    background-color: #D9D9D9;
+}
+.centerTxt {
+    text-align: center;
+}
+.boldTxt {
+    font-weight: bold;
+}
+.bgViolet {
+    background-color: blueviolet;
+}
+.bgRed {
+    background-color: firebrick;
+}
+.bgGreen {
+    background-color: chartreuse;
+}
+.bgAqua {
+    background-color: aquamarine;
+}
+.bgTan {
+    background-color: rgb(216, 191, 191);
+}
+.bigTxt {
+    font-size: 20px;
+}
